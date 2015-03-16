@@ -1,0 +1,23 @@
+{
+  "name": "myGrunt",
+  "version": "0.0.0",
+  "authors": [
+    "sallymew <sally411@163.com>"
+  ],
+  "description": "my bower",
+  "license": "MIT",
+  "homepage": "https://github.com/sallymew/myGrunt",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.16",
+    "jquery": "~2.1.3",
+    "angularjs": "~1.3.14"
+  }
+}
